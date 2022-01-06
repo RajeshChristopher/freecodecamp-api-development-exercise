@@ -3,6 +3,7 @@
 	"author": "Rajesh Christopher",
 	"description": "Node JS project",
 	"keywords": ["project","freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
